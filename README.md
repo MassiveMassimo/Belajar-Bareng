@@ -17,6 +17,7 @@
 <p>&nbsp;</p>
 
 ## Link Heroku
+[Belajar Bareng](https://belajar-bareng.herokuapp.com/)
 
 <p>&nbsp;</p>
 
