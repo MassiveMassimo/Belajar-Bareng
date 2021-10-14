@@ -30,3 +30,5 @@
 <p>&nbsp;</p>
 
 ## User persona
+
+![Persona1](https://media4.giphy.com/media/Ju7l5y9osyymQ/200.gif)
